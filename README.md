@@ -71,10 +71,10 @@ This project is built using **Core Java and Object-Oriented Programming (OOP)** 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/student-grade-tracker.git
+git clone https://github.com/PrashantNaik07/CodeAlpha_StudentGradeTracker
 ```
 2. Navigate to project folder
 
-3. javac Main.java GradeTracker.java Student.java
+3. javac *.java
 
 4. java Main
